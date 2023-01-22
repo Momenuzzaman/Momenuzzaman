@@ -53,7 +53,7 @@
 </summary>
 <br>
 
-<p align="center">
+<!-- <p align="center"> -->
 <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Momenuzzaman&show_icons=true&theme=react&hide_border=true&text_color=FFFFFF&bg_color=000000" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momenuzzaman&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=FFFFFF&bg_color=000000&"> 
 	
