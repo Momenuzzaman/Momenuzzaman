@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on JavaScript  
 - 👯 I’m looking to collaborate on  [Currently not collaborating] 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: mdmomenuzzamanemon@gmail.com  
+- 📫 How to reach me: md.momenuzzamanemon@gmail.com  
 - ⚡ Fun fact: When I've started 
 <br/>
 <br/>
